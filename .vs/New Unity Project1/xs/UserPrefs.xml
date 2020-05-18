@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{9121AA46-79A0-683F-A2FC-9861F5AE6610}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ColorChanger.cs">
+    <Files>
+      <File FileName="Assets/ColorChanger.cs" Line="13" Column="6" />
+      <File FileName="Assets/toggleCam.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Vehicle Physics Pro" expanded="True">
+                <Node name="Sdk" expanded="True" />
+              </Node>
+              <Node name="VRTK" expanded="True">
+                <Node name="Source" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="Internal" expanded="True" />
+                    <Node name="Utilities" expanded="True">
+                      <Node name="UnityEvents" expanded="True" />
+                    </Node>
+                  </Node>
+                  <Node name="SDK" expanded="True">
+                    <Node name="Simulator" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="ColorChanger.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f3e90847-c3e5-4a8d-911c-f6dd352ec71d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
